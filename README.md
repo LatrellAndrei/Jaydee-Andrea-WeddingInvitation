@@ -4,7 +4,7 @@ A digital wedding invitation website for **Jaydee Robert Laurio & Andrea Marasig
 
 - **Date:** Thursday, January 14, 2027 · 4:00 PM
 - **Venue:** Farm Hills Garden, Silang, Cavite
-- **Live site:** _add your `(https://jaydee-andrea-weddinginvitation.pages.dev/)` link here once deployed_
+- **Live site:** [jaydee-andrea-weddinginvitation.pages.dev](https://jaydee-andrea-weddinginvitation.pages.dev/)
 
 Built with plain **HTML, CSS and JavaScript**: no frameworks, no build step, no cost to host.
 
