@@ -2,7 +2,7 @@
 
 A digital wedding invitation website for **Jaydee Robert Laurio & Andrea Marasigan**.
 
-- **Date:** Thursday, January 14, 2027 · 4:00 PM
+- **Date:** Thursday, January 14, 2027 · 3:00 PM
 - **Venue:** Farm Hills Garden, Silang, Cavite
 - **Live site:** [jaydee-andrea-weddinginvitation.pages.dev](https://jaydee-andrea-weddinginvitation.pages.dev/)
 
@@ -12,16 +12,16 @@ Built with plain **HTML, CSS and JavaScript**: no frameworks, no build step, no 
 
 ## Sections
 
-| # | Section | What it shows |
-|---|---------|---------------|
-| 1 | Hero | Couple photo with a slow focus reveal, names, Colossians 3:14, RSVP button |
-| 2 | Save the Date | Polaroid photo and a January 2027 calendar with the 14th circled |
-| 3 | Venue | Watercolor painting of Farm Hills Garden and a **View Map** link |
-| 4 | Dress Code | Watercolor illustrations for Principal Sponsors and Guests |
-| 5 | Nuptials | Parents, Principal and Secondary Sponsors, Entourage, Team Groom and Team Bride |
-| 6 | FAQ | 9 tap-to-open questions and answers |
-| 7 | RSVP | "Confirm Your Attendance" button |
-| 8 | Footer | Names, date and venue |
+| #   | Section       | What it shows                                                                   |
+| --- | ------------- | ------------------------------------------------------------------------------- |
+| 1   | Hero          | Couple photo with a slow focus reveal, names, Colossians 3:14, RSVP button      |
+| 2   | Save the Date | Polaroid photo and a January 2027 calendar with the 14th circled                |
+| 3   | Venue         | Watercolor painting of Farm Hills Garden and a **View Map** link                |
+| 4   | Dress Code    | Watercolor illustrations for Principal Sponsors and Guests                      |
+| 5   | Nuptials      | Parents, Principal and Secondary Sponsors, Entourage, Team Groom and Team Bride |
+| 6   | FAQ           | 9 tap-to-open questions and answers                                             |
+| 7   | RSVP          | "Confirm Your Attendance" button                                                |
+| 8   | Footer        | Names, date and venue                                                           |
 
 **Extras**
 
@@ -55,13 +55,13 @@ jaydee-andrea-wedding/
 
 ## Common edits
 
-| To change… | Edit this |
-|------------|-----------|
-| Names, FAQ answers, any text | `index.html` |
-| A photo | Replace the file in `images/` **with the same file name** |
-| Music | Replace `audio/risk-it-all.mp3` with the same file name |
-| Colors or fonts | The top of `css/style.css` (`:root` section) |
-| RSVP link | `index.html`: find `id="rsvpBtn"` and set its `href` |
+| To change…                   | Edit this                                                 |
+| ---------------------------- | --------------------------------------------------------- |
+| Names, FAQ answers, any text | `index.html`                                              |
+| A photo                      | Replace the file in `images/` **with the same file name** |
+| Music                        | Replace `audio/risk-it-all.mp3` with the same file name   |
+| Colors or fonts              | The top of `css/style.css` (`:root` section)              |
+| RSVP link                    | `index.html`: find `id="rsvpBtn"` and set its `href`      |
 
 **Tips**
 
