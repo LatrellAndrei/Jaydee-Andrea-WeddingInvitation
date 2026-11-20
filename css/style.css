@@ -1249,3 +1249,29 @@ body {
   .venue-photo-card .vp, .cd-cell { animation: none !important; }
   .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
 }
+
+/* ---------- SAVE THE DATE: date + time under the calendar ---------- */
+.savedate-when {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35em;
+  margin-top: clamp(18px, 3.5vh, 28px);
+  padding-top: clamp(14px, 2.5vh, 20px);
+  border-top: 1px solid rgba(176, 141, 60, 0.45);
+}
+.savedate-when .sw-date {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  padding-left: 0.14em;
+  font-size: clamp(0.78rem, 3.4vw, 1rem);
+  color: var(--burgundy);
+  white-space: nowrap;
+}
+.savedate-when .sw-time {
+  font-family: 'Great Vibes', cursive;
+  font-size: clamp(1.6rem, 6vw, 2.1rem);
+  line-height: 1.1;
+  color: var(--burgundy);
+}
